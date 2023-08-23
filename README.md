@@ -12,7 +12,8 @@ Siéntete libre de clonar/bifurcar proyectos, plantear problemas y enviar relaci
 - 🤝 Estoy siempre abierto para  **ampliar mis conocimientos y tener más aprendizaje como desarrollador web integral**
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Daniel-quintero1? tab=repositorios](https://github.com/Daniel-quintero1?tab=repositorios)
 - 📄 Conoce mis experiencias [https://www.linkedin .com/es/daniel-alejandro-quintero-carrillo-8127b5a3/](https://www.linkedin.com/es/daniel-alejandro-quintero-carrillo-8127b5a3/)
-- 📄 Mi Usuario de Slack 
+- 📄 Mi Usuario de Slack
+  
 <h3 align="left">contact me:</h3>
 <a href="daqcarrillo@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  daqcarrillo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
