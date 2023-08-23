@@ -7,8 +7,8 @@ Hola soy desarrollador Full Stack, mi primer enfoque esta orientado en  el desar
 Mi gran deseo es aprender nuevas tecnologías y utilizar nuevas herramientas para tener un amplio conocimiento y poder tener un crecimiento profesional que me permita abarcar en muchas areas de la programacicon.
 Siéntete libre de clonar/bifurcar proyectos, plantear problemas y enviar relaciones públicas si crees que algo podría ser mejor.
 
-- 🔭 Proyecto Destacado [Proyectos personales ](https://github.com/Daniel-quintero1/Toolverse-Project)
-- 🔭👨‍💻 Proyecto Individual [Proyectos personales ](https://github.com/Daniel-quintero1/PAGE-COUNTRIES-PI) 
+- 🔭 Proyecto Destacado [Toolverse - Page E-Commmerce](https://github.com/Daniel-quintero1/Toolverse-Project)
+- 🔭👨‍💻 Proyecto Individual [Countries - Single Page ](https://github.com/Daniel-quintero1/PAGE-COUNTRIES-PI) 
 - 👯Busco colaborar en **frontend, backend**
 - 🤝 Estoy siempre abierto para  **ampliar mis conocimientos y tener más aprendizaje como desarrollador web integral**
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Daniel-quintero1? tab=repositorios](https://github.com/Daniel-quintero1?tab=repositorios)
