@@ -15,11 +15,6 @@ Siéntete libre de clonar/bifurcar proyectos, plantear problemas y enviar relaci
 - 📄 Conoce mis experiencias [https://www.linkedin .com/es/daniel-alejandro-quintero-carrillo-8127b5a3/](https://www.linkedin.com/in/daniel-alejandro-quintero-carrillo-8127b5a3/)
 - 📄 Mi Usuario de Slack Daniel Quintero
   
-<h3 align="left">contactame:</h3>
-<a href="daqcarrillo@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  daqcarrillo@gmail.com" t=mail style="margin-bottom: 5px;" />
-</a>
-
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
