@@ -12,7 +12,7 @@ Siéntete libre de clonar/bifurcar proyectos, plantear problemas y enviar relaci
 - 📄 Busco colaborar en **frontend, backend**
 - 📄 Estoy siempre abierto para  **ampliar mis conocimientos y tener más aprendizaje como desarrollador web integral**
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Daniel-quintero1? tab=repositorios](https://github.com/Daniel-quintero1?tab=repositories)
-- 📄 Conoce mis experiencias [https://www.linkedin .com/es/daniel-alejandro-quintero-carrillo-8127b5a3/](https://www.linkedin.com/es/daniel-alejandro-quintero-carrillo-8127b5a3/)
+- 📄 Conoce mis experiencias [https://www.linkedin .com/es/daniel-alejandro-quintero-carrillo-8127b5a3/](https://www.linkedin.com/in/daniel-alejandro-quintero-carrillo-8127b5a3/)
 - 📄 Mi Usuario de Slack Daniel Quintero
   
 <h3 align="left">contactame:</h3>
