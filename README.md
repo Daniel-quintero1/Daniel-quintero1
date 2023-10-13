@@ -11,7 +11,7 @@ Siéntete libre de clonar/bifurcar proyectos, plantear problemas y enviar relaci
 - 🔭👨‍💻 Proyecto Individual [Countries - Single Page ](https://github.com/Daniel-quintero1/PAGE-COUNTRIES-PI) 
 - 📄 Busco colaborar en **frontend, backend**
 - 📄 Estoy siempre abierto para  **ampliar mis conocimientos y tener más aprendizaje como desarrollador web integral**
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Daniel-quintero1? tab=repositorios](https://github.com/Daniel-quintero1?tab=repositorios)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Daniel-quintero1? tab=repositorios](https://github.com/Daniel-quintero1?tab=repositories)
 - 📄 Conoce mis experiencias [https://www.linkedin .com/es/daniel-alejandro-quintero-carrillo-8127b5a3/](https://www.linkedin.com/es/daniel-alejandro-quintero-carrillo-8127b5a3/)
 - 📄 Mi Usuario de Slack Daniel Quintero
   
